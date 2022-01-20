@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+title: Tiny Actions Challenge
+description:
+- CVPR 2022 workshop
+- June 2022
+- New Orleans, Louisiana
+buttons:
+  Overview: '#overview'
+  Invited Speakers: '#invited-speakers'
+  Important Dates: '#important-dates'
+  Challenge details: '#challenge-details'
+  Schedule: '#schedule'
+github:
+  is_project_page: false
