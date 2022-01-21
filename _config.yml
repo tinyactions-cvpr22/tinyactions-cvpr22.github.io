@@ -5,10 +5,11 @@ description:
 - June 2022
 - New Orleans, Louisiana
 buttons:
-  Overview: '#overview'
-  Invited Speakers: '#invited-speakers'
-  Important Dates: '#important-dates'
-  Challenge details: '#challenge-details'
-  Schedule: '#schedule'
+  About: '#About'
+  Dataset: '#Dataset'
+  Evaluation: '#Evaluation'
+  Important Dates: '#Important Dates'
+  Organizers: '#Organizers'
+  Contact: '#Contact'
 github:
   is_project_page: false
