@@ -102,7 +102,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="">
-    <img alt="Shruthi" src="pics/shruthi.JPG">
+    <img alt="Shruthi" src="pics/shruti.JPG">
     </a><br>
     <a href="">Shruthi</a><br>
     CRCV, University of Central Florida (UCF)
