@@ -67,10 +67,10 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   </div>
    
   <div style="width:22.5%">
-    <a href="https://www.microsoft.com/en-us/research/people/hpalangi">
+    <a href="">
     <img alt="tushar" src="pics/tushar.jpg">
     </a><br>
-  <a href="https://www.microsoft.com/en-us/research/people/hpalangi">Tushar Sangam</a><br>
+  <a href="">Tushar Sangam</a><br>
     CRCV, University of Central Florida (UCF)
   </div>
   
@@ -79,7 +79,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
    
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
-    <img alt="Mubarak Shah" src="pics/dr_Shah.jpg">
+    <img alt="Mubarak Shah" src="pics/muburak.jpg">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
     CRCV, University of Central Florida (UCF)
@@ -88,10 +88,10 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
 
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="https://xinw.ai/">
-    <img alt="Xin Wang" src="pics/aayush.jpg">
+    <a href="">
+    <img alt="Aayush" src="pics/aayush.jpeg">
     </a><br>
-    <a href="https://xinw.ai/">Aaysuh J Rana</a><br>
+    <a href="">Aaysuh J Rana</a><br>
     CRCV, University of Central Florida (UCF)
   </div>
   
@@ -99,6 +99,18 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   </div>  
 </div>
 
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="">
+    <img alt="Shruthi" src="pics/shruthi.JPG">
+    </a><br>
+    <a href="">Shruthi</a><br>
+    CRCV, University of Central Florida (UCF)
+  </div>
+  
+  <div style="width:2.5%">
+  </div>  
+</div>
 
 # Contact
 <div>
