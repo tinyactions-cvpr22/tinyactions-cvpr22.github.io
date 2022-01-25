@@ -38,7 +38,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
 
 # Organizers
 <div style="display: flex">
-  <div style="width:22.5%;height:22.5%">
+  <div style="width:22.5%">
     <a href="https://www.linkedin.com/in/praveen-tirupattur-2044ba51/">
     <img alt="Praveen" src="pics/praveen.jpg">
     </a><br>
@@ -49,7 +49,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   <div style="width:2.5%">
   </div>
    
-  <div style="width:22.5%;height:22.5%">
+  <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/rawat/">
     <img alt="Yogesh Rawat" src="pics/yogesh.JPG">
     </a><br>
@@ -60,7 +60,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   <div style="width:2.5%">
   </div>
    
-  <div style="width:22.5%;height:22.5%">
+  <div style="width:22.5%">
     <a href="">
     <img alt="tushar" src="pics/tushar.jpg">
     </a><br>
@@ -71,17 +71,15 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   <div style="width:2.5%">
   </div>
    
-  <div style="width:22.5%;height:22.5%">
+  <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
     <img alt="Mubarak Shah" src="pics/mubarak.JPG">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
     CRCV, University of Central Florida (UCF)
   </div>
-</div>
 
-<div style="display: flex">
-  <div style="width:22.5%;height:22.5%">
+  <div style="width:22.5%">
     <a href="">
     <img alt="Aayush" src="pics/aayush.jpeg">
     </a><br>
@@ -91,10 +89,8 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   
   <div style="width:2.5%">
   </div>  
-</div>
 
-<div style="display: flex">
-  <div style="width:22.5%;height:22.5%">
+  <div style="width:22.5%">
     <a href="">
     <img alt="Shruthi" src="pics/shruti.JPG">
     </a><br>
@@ -104,6 +100,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   
   <div style="width:2.5%">
   </div>  
+
 </div>
 
 # Contact
