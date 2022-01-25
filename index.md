@@ -48,11 +48,14 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   </div>
    
   <div style="width:22.5%">
-    <a href="https://www.crcv.ucf.edu/person/rawat/">
-    <img alt="Yogesh Rawat" src="pics/yogesh.JPG">
+    <a href="">
+    <img alt="Aayush" src="pics/aayush.jpeg">
     </a><br>
-  <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
+    <a href="">Aaysuh J Rana</a><br>
     CRCV, University of Central Florida (UCF)
+  </div>
+  
+  <div style="width:2.5%">
   </div>
   
   <div style="width:2.5%">
@@ -70,21 +73,10 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   </div>
    
   <div style="width:22.5%">
-    <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
-    <img alt="Mubarak Shah" src="pics/mubarak.JPG">
+    <a href="https://www.crcv.ucf.edu/person/rawat/">
+    <img alt="Yogesh Rawat" src="pics/yogesh.JPG">
     </a><br>
-  <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
-    CRCV, University of Central Florida (UCF)
-  </div>
-
-  <div style="width:2.5%">
-  </div>
-   
-  <div style="width:22.5%">
-    <a href="">
-    <img alt="Aayush" src="pics/aayush.jpeg">
-    </a><br>
-    <a href="">Aaysuh J Rana</a><br>
+  <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
     CRCV, University of Central Florida (UCF)
   </div>
   
@@ -100,8 +92,16 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
   </div>
   
   <div style="width:2.5%">
-  </div>  
-
+  </div> 
+   
+  <div style="width:22.5%">
+    <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
+    <img alt="Mubarak Shah" src="pics/mubarak.JPG">
+    </a><br>
+  <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
+    CRCV, University of Central Florida (UCF)
+  </div>
+  
 </div>
 
 # Contact
