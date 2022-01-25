@@ -31,7 +31,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
 # Important dates
 - <strong> May 1, 2021 </strong>: Challenge is announced, Train/Val sets are made available
 - <strong> May 13, 2021 </strong>: Additional training data released. Test set released 
-- <strong> May 15, 2021 </strong>: Evaluation server opened: Link
+- <strong> May 15, 2021 </strong>: Evaluation server opened
 - <strong> June 14, 2022 </strong>: Deadline for submitting the report
 
 # Organizers
