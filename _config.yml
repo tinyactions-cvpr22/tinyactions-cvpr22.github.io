@@ -5,11 +5,11 @@ description:
 - June 2022
 - New Orleans, Louisiana
 buttons:
-  About: '#About'
-  Dataset: '#Dataset'
-  Evaluation: '#Evaluation'
-  Important Dates: '#Important Dates'
-  Organizers: '#Organizers'
-  Contact: '#Contact'
+  About: '#about'
+  Dataset: '#dataset'
+  Evaluation: '#evaluation'
+  Important Dates: '#important-dates'
+  Organizers: '#organizers'
+  Contact: '#contact'
 github:
   is_project_page: false
