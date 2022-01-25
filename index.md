@@ -57,7 +57,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
    
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/rawat/">
-    <img alt="Yogesh Rawat" src="pics/rawat.jpg">
+    <img alt="Yogesh Rawat" src="pics/yogesh.JPG">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
     CRCV, University of Central Florida (UCF)
