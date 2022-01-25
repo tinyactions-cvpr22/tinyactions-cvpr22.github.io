@@ -79,7 +79,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
    
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
-    <img alt="Mubarak Shah" src="pics/muburak.jpg">
+    <img alt="Mubarak Shah" src="pics/mubarak.JPG">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
     CRCV, University of Central Florida (UCF)
