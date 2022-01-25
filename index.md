@@ -26,9 +26,13 @@ TinyVIRAT has multiple labels in each sample and the submissions will be asked t
 
 We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have predictions for a test sample. The performers will be required to submit a one-hot vector indicating which activities are present for each test sample. These one-hot vectors will be used to compute class-wise precision, recall, and F1-score. For action detection, the performers will submit a file with all the predictions which will include the class probablity and detected bounding boxes on each frame of a video. Sample submission file is available below.
 
+  
 Evaluation server: <a href="https://competitions.codalab.org/competitions/31843"> Link </a>
 
+  
 Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/submission_sample.zip"> Link </a>
+  
+  
 </div>
 
 # Important dates
@@ -41,10 +45,10 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
 # Organizers
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="http://vibhavvineet.info">
-    <img alt="Vibhav Vineet" src="pics/praveen.png">
+    <a href="https://www.linkedin.com/in/praveen-tirupattur-2044ba51/">
+    <img alt="Praveen" src="pics/praveen.jpg">
     </a><br>
-    <a href="http://vibhavvineet.info">Praveen Tirupattur</a><br>
+    <a href="https://www.linkedin.com/in/praveen-tirupattur-2044ba51/">Praveen Tirupattur</a><br>
     CRCV, University of Central Florida (UCF)
   </div>
   
@@ -64,7 +68,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
    
   <div style="width:22.5%">
     <a href="https://www.microsoft.com/en-us/research/people/hpalangi">
-    <img alt="Hamid Palangi" src="pics/tushar.jpg">
+    <img alt="tushar" src="pics/tushar.jpg">
     </a><br>
   <a href="https://www.microsoft.com/en-us/research/people/hpalangi">Tushar Sangam</a><br>
     CRCV, University of Central Florida (UCF)
