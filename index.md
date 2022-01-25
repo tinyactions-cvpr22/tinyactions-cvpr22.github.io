@@ -49,7 +49,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
    
   <div style="width:22.5%">
     <a href="">
-    <img alt="Aayush" src="pics/aayush.jpeg">
+    <img alt="Aayush" src="pics/aayush.jpg">
     </a><br>
     <a href="">Aaysuh J Rana</a><br>
     CRCV, University of Central Florida (UCF)
@@ -74,7 +74,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
 
   <div style="width:22.5%">
     <a href="">
-    <img alt="Shruthi" src="pics/shruti.JPG">
+    <img alt="Shruthi" src="pics/shruti.jpg">
     </a><br>
     <a href="">Shruthi</a><br>
     CRCV, University of Central Florida (UCF)
@@ -85,7 +85,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
    
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/rawat/">
-    <img alt="Yogesh Rawat" src="pics/yogesh.JPG">
+    <img alt="Yogesh Rawat" src="pics/yogesh.jpg">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
     CRCV, University of Central Florida (UCF)
@@ -96,7 +96,7 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
    
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
-    <img alt="Mubarak Shah" src="pics/mubarak.JPG">
+    <img alt="Mubarak Shah" src="pics/mubarak.jpg">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
     CRCV, University of Central Florida (UCF)
