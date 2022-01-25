@@ -26,10 +26,10 @@ TinyVIRAT has multiple labels in each sample and the submissions will be asked t
 
 We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have predictions for a test sample. The performers will be required to submit a one-hot vector indicating which activities are present for each test sample. These one-hot vectors will be used to compute class-wise precision, recall, and F1-score. For action detection, the performers will submit a file with all the predictions which will include the class probablity and detected bounding boxes on each frame of a video. Sample submission file is available below.
 
-  
+<br>  
 Evaluation server: <a href="https://competitions.codalab.org/competitions/31843"> Link </a>
 
-  
+<br>  
 Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/submission_sample.zip"> Link </a>
   
   
