@@ -41,10 +41,9 @@
 
 <div style="text-align: justify; margin-left: 50px;">
   <h2> Recognition </h2>
+  TinyVIRAT-v2 has multiple labels in each sample and the submissions will be asked to predict multiple action classes for each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using precision, recall, and F1-score. The winners will be determined based on the F1-score averaged over each class.
   <br>
-  TinyVIRAT has multiple labels in each sample and the submissions will be asked to predict multiple action classes for each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using precision, recall, and F1-score. The winners will be determined based on the F1-score averaged over each class.
-  <br>
-  We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have predictions for a test sample. The performers will be required to submit a one-hot vector indicating which activities are present for each test sample. These one-hot vectors will be used to compute class-wise precision, recall, and F1-score. For action detection, the performers will submit a file with all the predictions which will include the class probablity and detected bounding boxes on each frame of a video. Sample submission file is available below.
+  We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have predictions for a test sample. The performers will be required to submit a one-hot vector indicating which activities are present for each test sample. These one-hot vectors will be used to compute class-wise precision, recall, and F1-score. 
   <br>  
   Evaluation server: <a href="https://competitions.codalab.org/competitions/31843"> Link </a>
   <br>  
@@ -55,7 +54,13 @@
 
 <div style="text-align: justify; margin-left: 50px;">
   <h2> Detection </h2>
-  Coming Soon!
+  TinyVIRAT-Detection will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP). The winners will be determined based on the video-level mAP averaged over all classes.
+  <br>
+  We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have detections for a test sample. For action detection, the performers will submit a file with all the predictions which will include the class probablity and detected bounding boxes on each frame of a video. Sample submission file is available below.
+  <br>  
+  Evaluation server: Coming Soon!
+  <br>  
+  Sample submission: Coming Soon!
 </div>
 
 # Important dates
