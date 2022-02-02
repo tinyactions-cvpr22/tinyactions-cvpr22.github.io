@@ -29,10 +29,20 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
 </div>
 
 # Important dates
-- <strong> May 1, 2021 </strong>: Challenge is announced, Train/Val sets are made available
-- <strong> May 13, 2021 </strong>: Additional training data released. Test set released 
-- <strong> May 15, 2021 </strong>: Evaluation server opened
-- <strong> June 14, 2022 </strong>: Deadline for submitting the report
+Challange announced, maybe Feb 10
+
+Evaluation server Feb 20
+Detection data release Feb 10
+Submission deadline, 30 may
+Reports due June 6
+Winner announced June 10
+
+- <strong> Feb 10, 2022 </strong>: Challenge is announced
+- <strong> Feb 10, 2022 </strong>: Data for the "Detection" task is released
+- <strong> Feb 20, 2022 </strong>: Evaluation server opened
+- <strong> May 30, 2022 </strong>: Submission deadline
+- <strong> June 6, 2022 </strong>: Reports due
+- <strong> June 10, 2022 </strong>: Winner announcement 
 
 # Organizers
 <div style="display: flex">
