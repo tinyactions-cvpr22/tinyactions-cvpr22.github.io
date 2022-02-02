@@ -10,6 +10,7 @@ buttons:
   Evaluation: '#evaluation'
   Important Dates: '#important-dates'
   Organizers: '#organizers'
+  Cite: '#cite"
   Contact: '#contact'
 github:
   is_project_page: false
