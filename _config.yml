@@ -5,7 +5,7 @@ description:
 - June 2022
 - New Orleans, Louisiana
 buttons:
-  About: '#about'
+  Tasks: '#tasks'
   Dataset: '#dataset'
   Evaluation: '#evaluation'
   Important Dates: '#important-dates'
