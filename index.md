@@ -56,7 +56,7 @@
   <h2> Detection </h2>
   TinyVIRAT-Detection will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP). The winners will be determined based on the video-level mAP averaged over all classes.
   <br>
-  We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have detections for a test sample. For action detection, the performers will submit a file with all the predictions which will include the class probablity and detected bounding boxes on each frame of a video. Sample submission file is available below.
+  We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have detections for a test sample. For action detection, the predictions will include the class probablity and detected bounding boxes on each frame of a video. Sample submission file is available below.
   <br>  
   Evaluation server: Coming Soon!
   <br>  
