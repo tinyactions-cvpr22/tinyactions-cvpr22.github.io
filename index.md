@@ -48,7 +48,7 @@
   Evaluation server: <a href="https://competitions.codalab.org/competitions/31843"> Link </a>
   <br>  
   Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/submission_sample.zip"> Link </a>
-  </div>
+</div>
 
 
 <div style="text-align: justify; margin-left: 50px;">
