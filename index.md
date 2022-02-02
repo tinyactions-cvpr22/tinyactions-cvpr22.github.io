@@ -11,7 +11,7 @@ In this challenge, the focus is on recognizing tiny actions in videos. The exist
 
 # Dataset
 <div style="text-align: justify">
-We present a new benchmark dataset, TinyVIRAT, for low-resolution action recognition. The videos in TinyVIRAT are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 13K video samples from 26 different actions and all the videos are captured at 30fps. There are a total of 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
+We present a new benchmark dataset, TinyVIRAT-V2, for low-resolution action recognition. The videos in TinyVIRAT-V2 are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 13K video samples from 26 different actions and all the videos are captured at 30fps. There are a total of 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
 <br>
 The dataset is available for download <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/TinyVIRAT-v2.zip"> here</a>. The baseline models are available on the <a href="https://github.com/aayushjr/tinyAction"> GitHub</a>. For more details refer to the <a href="https://arxiv.org/pdf/2107.11494.pdf"> paper</a>       
 </div>
@@ -102,6 +102,15 @@ Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr
     CRCV, University of Central Florida (UCF)
   </div>
   
+</div>
+
+
+# Cite
+<div>
+Please cite the following works, if you use these datasets in your research.
+
+1. Tirupattur, Praveen, et al. "TinyAction Challenge: Recognizing Real-world Low-resolution Activities in Videos." arXiv preprint arXiv:2107.11494 (2021).
+2. Demir, Ugur, Yogesh S. Rawat, and Mubarak Shah. "TinyVIRAT: Low-resolution Video Action Recognition." 2020 25th International Conference on Pattern Recognition (ICPR). IEEE Computer Society, 2021.
 </div>
 
 # Contact
