@@ -56,14 +56,6 @@
 </div>
 
 # Important dates
-Challange announced, maybe Feb 10
-
-Evaluation server Feb 20
-Detection data release Feb 10
-Submission deadline, 30 may
-Reports due June 6
-Winner announced June 10
-
 - <strong> Feb 10, 2022 </strong>: Challenge is announced
 - <strong> Feb 10, 2022 </strong>: Data for the "Detection" task is released
 - <strong> Feb 20, 2022 </strong>: Evaluation server opened
@@ -142,9 +134,8 @@ Winner announced June 10
 # Cite
 <div>
 Please cite the following works, if you use these datasets in your research.
-
-1. Tirupattur, Praveen, et al. "TinyAction Challenge: Recognizing Real-world Low-resolution Activities in Videos." arXiv preprint arXiv:2107.11494 (2021).
-2. Demir, Ugur, Yogesh S. Rawat, and Mubarak Shah. "TinyVIRAT: Low-resolution Video Action Recognition." 2020 25th International Conference on Pattern Recognition (ICPR). IEEE Computer Society, 2021.
+- Tirupattur, Praveen, et al. "TinyAction Challenge: Recognizing Real-world Low-resolution Activities in Videos." arXiv preprint arXiv:2107.11494 (2021).
+- Demir, Ugur, Yogesh S. Rawat, and Mubarak Shah. "TinyVIRAT: Low-resolution Video Action Recognition." 2020 25th International Conference on Pattern Recognition (ICPR). IEEE Computer Society, 2021.
 </div>
 
 # Contact
