@@ -101,7 +101,7 @@
 
   <div style="width:22.5%">
     <a href="">
-    <img alt="Shruthi" src="pics/shruti.jpg">
+    <img alt="Shruthi Vyas" src="pics/shruti.jpg">
     </a><br>
     <a href="">Shruthi</a><br>
     CRCV, University of Central Florida (UCF)
