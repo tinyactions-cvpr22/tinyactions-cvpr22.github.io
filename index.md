@@ -20,7 +20,7 @@ This year we will focus on two different tasks:
 ## Dataset details
 This challenge will use two different benchmark datasets for the above tasks. For the recognition task, we will use TinyVIRAT-v2 benchmark and for activity detection we will use MVA (Multiple Visual Actions) dataset. 
 
-  <h2> Recognition </h2>: We will use TinyVIRAT-v2 benchmark for low-resolution action recognition. The videos in TinyVIRAT-V2 are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
+  **Recognition**: We will use TinyVIRAT-v2 benchmark for low-resolution action recognition. The videos in TinyVIRAT-V2 are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
   <br>
   
 - Dataset download: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/TinyVIRAT-v2.zip"> Tiny-VIRAT-v2</a>. 
@@ -29,35 +29,34 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
 
 <br>
 
-  <h2> Detection </h2>: Coming soon!     
+  **Detection**: Coming soon!     
 
   
 ## Evaluation
+Both the tasks will be evaluated using a public leaderboard where the participants will submit their models prediction on the test set.
 
 
-<div style="text-align: justify; margin-left: 50px;">
-  <h2> Recognition </h2>
-  TinyVIRAT-v2 has multiple labels in each sample and the submissions will be asked to predict multiple action classes for each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using precision, recall, and F1-score. The winners will be determined based on the F1-score averaged over each class.
+  **Recognition**: TinyVIRAT-v2 has multiple labels in each sample and the submissions will be asked to predict multiple action classes for each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using precision, recall, and F1-score. The winners will be determined based on the F1-score averaged over each class.
   <br>
+  
   We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have predictions for a test sample. The performers will be required to submit a one-hot vector indicating which activities are present for each test sample. These one-hot vectors will be used to compute class-wise precision, recall, and F1-score. 
   <br>  
-  Evaluation server: <a href="https://competitions.codalab.org/competitions/31843"> Link </a>
-  <br>  
-  Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/submission_sample.zip"> Link </a>
-</div>
+  
+  - Evaluation server: <a href=""> Coming Soon! </a>
+  - Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/submission_sample.zip"> Link </a>
 
 <br>
 
-<div style="text-align: justify; margin-left: 50px;">
   <h2> Detection </h2>
-  TinyVIRAT-Detection will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP). The winners will be determined based on the video-level mAP averaged over all classes.
+  MVA will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP) at 0.5 threshold. The winners will be determined based on the video-level mAP averaged over all classes at 0.5 threshold.
   <br>
-  We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have detections for a test sample. For action detection, the predictions will include the class probablity and detected bounding boxes on each frame of a video. Sample submission file is available below.
+  
+  We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have detections for a test sample. For action detection, the predictions will include the class probablity and detected bounding boxes on each frame of a video.
   <br>  
-  Evaluation server: Coming Soon!
-  <br>  
-  Sample submission: Coming Soon!
-</div>
+  
+  - Evaluation server: Coming Soon!
+  - Sample submission: Coming Soon!
+
 
 ## Important dates
 - <strong> Feb 10, 2022 </strong>: Challenge is announced
