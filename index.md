@@ -41,7 +41,7 @@ Both the tasks will be evaluated using a public leaderboard where the participan
   We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have predictions for a test sample. The performers will be required to submit a one-hot vector indicating which activities are present for each test sample. These one-hot vectors will be used to compute class-wise precision, recall, and F1-score. 
   <br>  
   
-  - Evaluation server: <a href=""> Coming Soon! </a>
+  - Evaluation server: <a href="https://codalab.lisn.upsaclay.fr/competitions/1832"> Link </a>
   - Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/submission_sample.zip"> Link </a>
 
   **Detection**: MVA dataset will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP) at 0.5 threshold. The winners will be determined based on the video-level mAP averaged over all classes at 0.5 threshold.
