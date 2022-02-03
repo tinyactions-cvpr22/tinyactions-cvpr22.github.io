@@ -131,9 +131,9 @@ Both the tasks will be evaluated using a public leaderboard where the participan
 ## Contact
 <div>
 Feel free to contact us at yogesh@ucf.edu if you have any questions.
-  
-Join this mailing list for updates: https://groups.google.com/g/tinyactions
-  
+<br>  
+Join this mailing list for updates: <a href=https://groups.google.com/g/tinyactions">https://groups.google.com/g/tinyactions</a>
+<br>
 Thanks for being with us!
 </div>
 
