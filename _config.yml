@@ -6,11 +6,11 @@ description:
 - New Orleans, Louisiana
 buttons:
   Tasks: '#tasks'
-  Dataset: '#dataset'
+  Dataset: '#dataset-details'
   Evaluation: '#evaluation'
   Important Dates: '#important-dates'
   Organizers: '#organizers'
-  Cite: '#cite'
+  Cite: '#references'
   Contact: '#contact'
 github:
   is_project_page: false
