@@ -1,15 +1,21 @@
+
+## Overview
+
 The existing research in action recognition is mostly focused on high-quality videos where the action is distinctly visible. Therefore, the available action recognition models are not designed for low-resolution videos and their performance is still far from satisfactory when the action is not distinctly visible. In real-world surveillance environments, the actions in videos are captured at a wide range of resolutions. Most activities occur at a distance with a small resolution and recognizing such activities is a challenging problem.
   <br>
+  
   The ActivityNet challenge has seen a wide range of tasks relevant to action recognition, ranging from temporal activity recognition to spatio-temporal action detection. However, in all the tasks we have seen so far, the focus has never been on low-resolution activities. In all the used datasets the videos are of high-resolution and the occurring activities cover most of the frame area.
   <br>
+  
   In this challenge, the focus is on recognizing tiny actions in videos. The existing approaches addressing this issue perform their experiments on artificially created datasets where the high-resolution videos are down-scaled to a smaller resolution to create a low-resolution sample. However, re-scaling a high-resolution video to a lower- resolution does not reflect real world low-resolution video quality. Real world low-resolution videos suffer from grain, camera sensor noise, and other factors, which are not not present in the down-scaled videos. We will provide benchmark datasets for activity recognition and activity detection which contains natural low-resolution activities.
+  <br>
 
 # Tasks
 This year we will focus on two different tasks:
 
-- Activity recognition: 
+- Activity recognition: The goal of this task is to recognize activities occurring in a video. There can be multiple activities happening at the same time. We will use Tiny-VIRAT-v2 benchmark for this task. The developed models should solve a multi-label classification problem and recognize all the activities occuring in a video. 
 
-- Activity detection: 
+- Activity detection: In this task, the goal is to perform spatio-temporal localization of activities in videos. The developed models should not only recognize the activities, but also provide their spatio-temporal localization in the input video. Similar to the recognition task, this task can also have multiple activities at the same time. 
 
 # Dataset details
 
