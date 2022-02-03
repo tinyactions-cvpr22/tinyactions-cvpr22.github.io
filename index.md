@@ -26,7 +26,7 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
 - Dataset download: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/TinyVIRAT-v2.zip"> Tiny-VIRAT-v2</a>
 - Baseline models: <a href="https://github.com/aayushjr/tinyAction"> GitHub code</a>
 - More details: <a href="https://arxiv.org/pdf/2107.11494.pdf">Report</a>    
-
+<br>
 
   **Detection**: Coming soon!     
 
