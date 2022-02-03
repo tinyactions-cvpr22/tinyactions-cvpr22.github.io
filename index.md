@@ -20,7 +20,7 @@ This year we will focus on two different tasks:
 ## Dataset details
 This challenge will use two different benchmark datasets for the above tasks. For the recognition task, we will use TinyVIRAT-v2 benchmark and for activity detection we will use MVA (Multiple Visual Actions) dataset. 
 
-  **Recognition**: We will use TinyVIRAT-v2 benchmark for low-resolution action recognition. The videos in TinyVIRAT-V2 are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
+**Recognition**: We will use TinyVIRAT-v2 benchmark for low-resolution action recognition. The videos in TinyVIRAT-V2 are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
   <br>
   
 - Dataset download: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/TinyVIRAT-v2.zip"> Tiny-VIRAT-v2</a>
@@ -28,7 +28,7 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
 - More details: <a href="https://arxiv.org/pdf/2107.11494.pdf">Report</a>    
 <br>
 
-  **Detection**: We will provide a new benchmark dataset (MVA dataset) for activity detection which has naturally occurring tiny actions. More details coming soon!     
+**Detection**: We will provide a new benchmark dataset (MVA dataset) for activity detection which has naturally occurring tiny actions. More details coming soon!     
 
   
 ## Evaluation
