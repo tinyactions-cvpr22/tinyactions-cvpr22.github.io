@@ -47,8 +47,7 @@ Both the tasks will be evaluated using a public leaderboard where the participan
 
 <br>
 
-  <h2> Detection </h2>
-  MVA will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP) at 0.5 threshold. The winners will be determined based on the video-level mAP averaged over all classes at 0.5 threshold.
+  **Detection**: MVA dataset will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP) at 0.5 threshold. The winners will be determined based on the video-level mAP averaged over all classes at 0.5 threshold.
   <br>
   
   We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have detections for a test sample. For action detection, the predictions will include the class probablity and detected bounding boxes on each frame of a video.
