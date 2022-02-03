@@ -10,31 +10,29 @@ The existing research in action recognition is mostly focused on high-quality vi
   In this challenge, the focus is on recognizing tiny actions in videos. The existing approaches addressing this issue perform their experiments on artificially created datasets where the high-resolution videos are down-scaled to a smaller resolution to create a low-resolution sample. However, re-scaling a high-resolution video to a lower- resolution does not reflect real world low-resolution video quality. Real world low-resolution videos suffer from grain, camera sensor noise, and other factors, which are not not present in the down-scaled videos. We will provide benchmark datasets for activity recognition and activity detection which contains natural low-resolution activities.
   <br>
 
-# Tasks
+## Tasks
 This year we will focus on two different tasks:
 
-- Activity recognition: The goal of this task is to recognize activities occurring in a video. There can be multiple activities happening at the same time. We will use Tiny-VIRAT-v2 benchmark for this task. The developed models should solve a multi-label classification problem and recognize all the activities occuring in a video. 
+- **Activity recognition**: The goal of this task is to recognize activities occurring in a video. There can be multiple activities happening at the same time. We will use Tiny-VIRAT-v2 benchmark for this task. The developed models should solve a multi-label classification problem and recognize all the activities occuring in a video. 
 
-- Activity detection: In this task, the goal is to perform spatio-temporal localization of activities in videos. The developed models should not only recognize the activities, but also provide their spatio-temporal localization in the input video. Similar to the recognition task, this task can also have multiple activities at the same time. 
+- **Activity detection**: In this task, the goal is to perform spatio-temporal localization of activities in videos. The developed models should not only recognize the activities, but also provide their spatio-temporal localization in the input video. Similar to the recognition task, this task can also have multiple activities at the same time. 
 
-# Dataset details
+## Dataset details
+This challenge will use two different benchmark datasets for the above tasks. For the recognition task, we will use TinyVIRAT-v2 benchmark and for activity detection we will use MVA (Multiple Visual Actions) dataset. 
 
-
-<div style="text-align: justify; margin-left: 50px;">
-  <h2> Recognition </h2>
-  We present a new benchmark dataset, TinyVIRAT-V2, for low-resolution action recognition. The videos in TinyVIRAT-V2 are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 13K video samples from 26 different actions and all the videos are captured at 30fps. There are a total of 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
+  <h2> Recognition </h2>: We will use TinyVIRAT-v2 benchmark for low-resolution action recognition. The videos in TinyVIRAT-V2 are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
   <br>
-  The dataset is available for download <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/TinyVIRAT-v2.zip"> here</a>. The baseline models are available on the <a href="https://github.com/aayushjr/tinyAction"> GitHub</a>. For more details refer to the <a href="https://arxiv.org/pdf/2107.11494.pdf"> paper</a>       
-</div>
+  
+- Dataset download: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/TinyVIRAT-v2.zip"> Tiny-VIRAT-v2</a>. 
+- Baseline models: <a href="https://github.com/aayushjr/tinyAction"> GitHub code</a>. 
+- More details: <a href="https://arxiv.org/pdf/2107.11494.pdf">Report</a>.      
 
 <br>
 
-<div style="text-align: justify; margin-left: 50px;">
-  <h2> Detection </h2>
-  Coming Soon!     
-</div>
+  <h2> Detection </h2>: Coming soon!     
+
   
-# Evaluation
+## Evaluation
 
 
 <div style="text-align: justify; margin-left: 50px;">
@@ -61,7 +59,7 @@ This year we will focus on two different tasks:
   Sample submission: Coming Soon!
 </div>
 
-# Important dates
+## Important dates
 - <strong> Feb 10, 2022 </strong>: Challenge is announced
 - <strong> Feb 10, 2022 </strong>: Data for the "Detection" task is released
 - <strong> Feb 20, 2022 </strong>: Evaluation server opened
@@ -69,7 +67,7 @@ This year we will focus on two different tasks:
 - <strong> June 6, 2022 </strong>: Reports due
 - <strong> June 10, 2022 </strong>: Winner announcement 
 
-# Organizers
+## Organizers
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://www.linkedin.com/in/praveen-tirupattur-2044ba51/">
@@ -126,7 +124,7 @@ This year we will focus on two different tasks:
 </div>
 
 
-# References
+## References
 <div>
   Please cite the following works, if you use these datasets in your research:
   <ul>
@@ -135,7 +133,7 @@ This year we will focus on two different tasks:
   </ul>
 </div>
 
-# Contact
+## Contact
 <div>
 Feel free to contact us at yogesh@ucf.edu if you have any questions.
 Join this mailing list for updates: https://groups.google.com/g/tinyactions
