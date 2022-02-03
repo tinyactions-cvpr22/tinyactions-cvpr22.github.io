@@ -28,7 +28,7 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
 - More details: <a href="https://arxiv.org/pdf/2107.11494.pdf">Report</a>    
 <br>
 
-  **Detection**: Coming soon!     
+  **Detection**: We will provide a new benchmark dataset (MVA dataset) for activity detection which has naturally occurring tiny actions. More details coming soon!     
 
   
 ## Evaluation
