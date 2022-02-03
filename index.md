@@ -1,25 +1,17 @@
-
-
-# Tasks
-
-
-<div style="text-align: justify; margin-left: 50px;">
-  <h2> Recognition </h2> 
-  The existing research in action recognition is mostly focused on high-quality videos where the action is distinctly visible. Therefore, the available action recognition models are not designed for low-resolution videos and their performance is still far from satisfactory when the action is not distinctly visible. In real-world surveillance environments, the actions in videos are captured at a wide range of resolutions. Most activities occur at a distance with a small resolution and recognizing such activities is a challenging problem.
+The existing research in action recognition is mostly focused on high-quality videos where the action is distinctly visible. Therefore, the available action recognition models are not designed for low-resolution videos and their performance is still far from satisfactory when the action is not distinctly visible. In real-world surveillance environments, the actions in videos are captured at a wide range of resolutions. Most activities occur at a distance with a small resolution and recognizing such activities is a challenging problem.
   <br>
   The ActivityNet challenge has seen a wide range of tasks relevant to action recognition, ranging from temporal activity recognition to spatio-temporal action detection. However, in all the tasks we have seen so far, the focus has never been on low-resolution activities. In all the used datasets the videos are of high-resolution and the occurring activities cover most of the frame area.
   <br>
-  In this challenge, the focus is on recognizing tiny actions in videos. The existing approaches addressing this issue perform their experiments on artificially created datasets where the high-resolution videos are down-scaled to a smaller resolution to create a low-resolution sample. However, re-scaling a high-resolution video to a lower- resolution does not reflect real world low-resolution video quality. Real world low-resolution videos suffer from grain, camera sensor noise, and other factors, which are not not present in the down-scaled videos. We will provide TinyVIRAT-v2, a benchmark dataset for activity recognition which contains natural low-resolution activities.
-</div>
+  In this challenge, the focus is on recognizing tiny actions in videos. The existing approaches addressing this issue perform their experiments on artificially created datasets where the high-resolution videos are down-scaled to a smaller resolution to create a low-resolution sample. However, re-scaling a high-resolution video to a lower- resolution does not reflect real world low-resolution video quality. Real world low-resolution videos suffer from grain, camera sensor noise, and other factors, which are not not present in the down-scaled videos. We will provide benchmark datasets for activity recognition and activity detection which contains natural low-resolution activities.
 
-<br>
-<div style="text-align: justify; margin-left: 50px;">
-  <h2> Detection </h2>
-  Description for detection task
+# Tasks
+This year we will focus on two different tasks:
 
-</div>
+- Activity recognition: 
 
-# Dataset
+- Activity detection: 
+
+# Dataset details
 
 
 <div style="text-align: justify; margin-left: 50px;">
@@ -91,26 +83,15 @@
     <a href="">Aaysuh J Rana</a><br>
     CRCV, University of Central Florida (UCF)
   </div>
-  
-  <div style="width:2.5%">
-  </div>
    
-  <div style="width:22.5%">
-    <a href="">
-    <img alt="tushar" src="pics/tushar.jpg">
-    </a><br>
-  <a href="">Tushar Sangam</a><br>
-    CRCV, University of Central Florida (UCF)
-  </div>
-  
   <div style="width:2.5%">
   </div>  
 
   <div style="width:22.5%">
     <a href="">
-    <img alt="Shruthi Vyas" src="pics/shruti.jpg">
+    <img alt="Shruti Vyas" src="pics/shruti.jpg">
     </a><br>
-    <a href="">Shruthi</a><br>
+    <a href="">Shruti Vyas</a><br>
     CRCV, University of Central Florida (UCF)
   </div>
   
@@ -139,12 +120,12 @@
 </div>
 
 
-# Cite
+# References
 <div>
-  Please cite the following works, if you use these datasets in your research.
+  Please cite the following works, if you use these datasets in your research:
   <ul>
     <li> Tirupattur, Praveen, et al. "TinyAction Challenge: Recognizing Real-world Low-resolution Activities in Videos." arXiv preprint arXiv:2107.11494 (2021).       </li>
-    <li> Demir, Ugur, Yogesh S. Rawat, and Mubarak Shah. "TinyVIRAT: Low-resolution Video Action Recognition." 2020 25th International Conference on Pattern Recognition (ICPR). IEEE Computer Society, 2021. </li>
+    <li> Demir, Ugur, et al. "TinyVIRAT: Low-resolution Video Action Recognition." 2020 25th International Conference on Pattern Recognition. IEEE Computer Society, 2021. </li>
   </ul>
 </div>
 
