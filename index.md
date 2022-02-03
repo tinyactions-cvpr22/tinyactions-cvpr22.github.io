@@ -27,8 +27,6 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
 - Baseline models: <a href="https://github.com/aayushjr/tinyAction"> GitHub code</a>. 
 - More details: <a href="https://arxiv.org/pdf/2107.11494.pdf">Report</a>.      
 
-<br>
-
   **Detection**: Coming soon!     
 
   
@@ -44,8 +42,6 @@ Both the tasks will be evaluated using a public leaderboard where the participan
   
   - Evaluation server: <a href=""> Coming Soon! </a>
   - Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/submission_sample.zip"> Link </a>
-
-<br>
 
   **Detection**: MVA dataset will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP) at 0.5 threshold. The winners will be determined based on the video-level mAP averaged over all classes at 0.5 threshold.
   <br>
