@@ -82,6 +82,28 @@ Both the tasks will be evaluated using a public leaderboard where the participan
     <a href="">Aaysuh J Rana</a><br>
     CRCV, University of Central Florida (UCF)
   </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="">
+    <img alt="Akash" src="pics/ak_cvpr_im.jpg">
+    </a><br>
+    <a href="">Akash Kumar</a><br>
+    CRCV, University of Central Florida (UCF)
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="">
+    <img alt="Rajat" src="pics/rajat.jpg">
+    </a><br>
+    <a href="">Rajat Modi</a><br>
+    CRCV, University of Central Florida (UCF)
+  </div>
    
   <div style="width:2.5%">
   </div>  
