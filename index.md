@@ -25,11 +25,12 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
   
 - Dataset download: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/TinyVIRAT-v2.zip"> Tiny-VIRAT-v2</a>
 - Code to train baseline models: <a href="https://github.com/aayushjr/tinyAction"> GitHub code</a>
-- Pre-trained models: <a href="https://www.crcv.ucf.edu/data1/tiny-actions/trained_weights/i3d_tinyVirat.pth"> I3D </a>, <a href="https://www.crcv.ucf.edu/data1/tiny-actions/trained_weights/r2p1d_K_50_tinyVirat.pth"> R(2+1)D </a>, <a href="https://www.crcv.ucf.edu/data1/tiny-actions/trained_weights/wideresnet_50_tinyVirat.pth"> ResNet50 </a>
+- Pre-trained baseline models: <a href="https://www.crcv.ucf.edu/data1/tiny-actions/trained_weights/i3d_tinyVirat.pth"> I3D </a>, <a href="https://www.crcv.ucf.edu/data1/tiny-actions/trained_weights/r2p1d_K_50_tinyVirat.pth"> R(2+1)D </a>, <a href="https://www.crcv.ucf.edu/data1/tiny-actions/trained_weights/wideresnet_50_tinyVirat.pth"> ResNet50 </a>
 - More details: <a href="https://arxiv.org/pdf/2107.11494.pdf">Report</a>    
 <br>
 
-**Detection**: We will provide a new benchmark dataset (MVA dataset) for activity detection which has naturally occurring tiny actions. More details coming soon!     
+**Detection**: We will provide a new benchmark dataset (MVA dataset) for activity detection which has naturally occurring tiny actions. Here are the links to donwload the dataset. More details coming soon!     
+- Dataset download: <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-train.zip"> Train </a>, <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-test.zip"> Test </a>
 
   
 ## Evaluation
