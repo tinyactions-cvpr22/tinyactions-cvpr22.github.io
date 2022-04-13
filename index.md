@@ -46,7 +46,7 @@ Both the tasks will be evaluated using a public leaderboard where the participan
   - Evaluation server: <a href="https://codalab.lisn.upsaclay.fr/competitions/1832"> Link </a>
   - Sample submission: <a href="https://www.crcv.ucf.edu/tiny-actions-challenge-cvpr2021/data/submission_sample.zip"> Link </a>
 
-  **Detection**: MVA dataset will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP) at 0.5 threshold. The winners will be determined based on the video-level mAP averaged over all classes at 0.5 threshold.
+  **Detection**: MAMA dataset will have multiple activites in each sample and the submissions should contain detections for all activity instance in each sample. The performers can choose a prediction threshold of their choice and will be required to submit only the occurring activities for each sample. The submissions will be evaluated using frame-level and video-level mean-average precision (mAP) at 0.5 threshold. The winners will be determined based on the video-level mAP averaged over all classes at 0.5 threshold.
   <br>
   
   We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have detections for a test sample. For action detection, the predictions will include the class probablity and detected bounding boxes on each frame of a video.
@@ -58,8 +58,8 @@ Both the tasks will be evaluated using a public leaderboard where the participan
 
 ## Important dates
 - <strong> Feb 10, 2022 </strong>: Challenge is announced
-- <strong> Feb 10, 2022 </strong>: Data for the "Detection" task is released
-- <strong> Feb 20, 2022 </strong>: Evaluation server opened
+- <strong> Feb 20, 2022 </strong>: Evaluation server for Recognition task is opened
+- <strong> Apr 12, 2022 </strong>: Data for the "Detection" task is released
 - <strong> May 30, 2022 </strong>: Submission deadline
 - <strong> June 6, 2022 </strong>: Reports due
 - <strong> June 10, 2022 </strong>: Winner announcement 
