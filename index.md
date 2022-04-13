@@ -18,7 +18,7 @@ This year we will focus on two different tasks:
 - **Activity detection**: In this task, the goal is to perform spatio-temporal localization of activities in videos. The developed models should not only recognize the activities, but also provide their spatio-temporal localization in the input video. Similar to the recognition task, this task can also have multiple activities at the same time. 
 
 ## Dataset details
-This challenge will use two different benchmark datasets for the above tasks. For the recognition task, we will use TinyVIRAT-v2 benchmark and for activity detection we will use MVA (Multiple Visual Actions) dataset. 
+This challenge will use two different benchmark datasets for the above tasks. For the recognition task, we will use TinyVIRAT-v2 benchmark and for activity detection we will use MAMA (Multi-Actor Muti-Action) dataset. 
 
 **Recognition**: We will use TinyVIRAT-v2 benchmark for low-resolution action recognition. The videos in TinyVIRAT-V2 are realistic and extracted from real-world surveillance videos. This is a multi-label dataset with multiple actions per video clip which makes it even more challenging. The dataset has around 26355 activity instances with 16950 training, 3308 validation and 6097 testing instances. The length of the activities vary from sample to sample with an average length of around 3 seconds. It contains arbitrary sized low-resolution videos which ranged from 10x10 pixels to 128x128 pixels with an average of 70x70 pixels. The videos in the proposed dataset are naturally low resolution and they reflect real-life challenges.
   <br>
@@ -29,7 +29,7 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
 - More details: <a href="https://arxiv.org/pdf/2107.11494.pdf">Report</a>    
 <br>
 
-**Detection**: We will provide a new benchmark dataset (MVA dataset) for activity detection which has naturally occurring tiny actions. Here are the links to donwload the dataset. More details coming soon!     
+**Detection**: We will provide a new benchmark dataset (MAMA dataset) for activity detection which has naturally occurring tiny actions. Here are the links to donwload the dataset. More details coming soon!     
 - Dataset download: <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-train.zip"> Train </a>, <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-test.zip"> Test </a>
 
   
