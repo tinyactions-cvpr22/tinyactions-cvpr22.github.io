@@ -29,8 +29,11 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
 - More details: <a href="https://arxiv.org/pdf/2107.11494.pdf">Report</a>    
 <br>
 
-**Detection**: We will provide a new benchmark dataset (MAMA dataset) for activity detection which has naturally occurring tiny actions. Here are the links to donwload the dataset. More details coming soon!     
-- Dataset download: <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-train.zip"> Train </a>, <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-test.zip"> Test </a>
+**Detection**: We provide a new benchmark dataset (MAMA dataset) for activity detection which has naturally occurring tiny actions. This dataset is a temporally trimmed version of VIRAT/MEVA datasets. All of our samples are obtained from CCTV cameras mounted at high altitudes, which results in lower resolution of the action regions. MAMA consists of 35 classes. MAMA consists of a total of 32726 videos with 25837 videos in the train split, and 6889 videos in the test split. The length of clips in the dataset ranges from 1 sec to 5 sec. The action-classes in the MAMA dataset capture both human-human "indirect" actions like talking, as well as physical contact such as "hand_interacting_with_person". Furthermore, we also annotate the human-object interactions, such as opening a door, etc. Further details about the evaluation protocol and the annotation format can be found <a href="https://www.crcv.ucf.edu/research/projects/mama-multi-actor-multi-action-dataset-for-action-detection"> here </a>.
+
+Here are the links to donwload the dataset
+- Dataset Download: <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-train.zip"> Train [118 GB]</a>, <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-test.zip"> Test [31 GB] </a>
+- Dataset Visualization : <a href='https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA.sq'> Link </a>
 
   
 ## Evaluation
