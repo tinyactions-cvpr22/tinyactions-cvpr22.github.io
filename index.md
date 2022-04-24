@@ -150,6 +150,7 @@ Both the tasks will be evaluated using a public leaderboard where the participan
 <div>
   Please cite the following works, if you use these datasets in your research:
   <ul>
+    <li> Modi, Rajat, et al. "Video Action Detection: Analysing Limitations and Challenges" arxiv preprint arXiv:2204.07892 (2022). </li>
     <li> Tirupattur, Praveen, et al. "TinyAction Challenge: Recognizing Real-world Low-resolution Activities in Videos." arXiv preprint arXiv:2107.11494 (2021).       </li>
     <li> Demir, Ugur, et al. "TinyVIRAT: Low-resolution Video Action Recognition." 2020 25th International Conference on Pattern Recognition. IEEE Computer Society, 2021. </li>
   </ul>
