@@ -33,7 +33,8 @@ This challenge will use two different benchmark datasets for the above tasks. Fo
 
 Here are the links to donwload the dataset
 - Dataset Download: <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-train.zip"> Train [118 GB]</a>, <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA-test.zip"> Test [31 GB] </a>
-- Dataset Visualization : <a href='https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA.sq'> Link </a>
+- Dataset Visualization: <a href='https://www.crcv.ucf.edu/data1/UCF-MAMA/UCF-MAMA.sq'> Link </a>
+- Paper: <a href='https://arxiv.org/pdf/2204.07892.pdf'> Link </a>
 
   
 ## Evaluation
@@ -150,7 +151,7 @@ Both the tasks will be evaluated using a public leaderboard where the participan
 <div>
   Please cite the following works, if you use these datasets in your research:
   <ul>
-    <li> Modi, Rajat, et al. "Video Action Detection: Analysing Limitations and Challenges" arxiv preprint arXiv:2204.07892 (2022). </li>
+    <li> Modi, Rajat, et al. "Video Action Detection: Analysing Limitations and Challenges." arxiv preprint arXiv:2204.07892 (2022). </li>
     <li> Tirupattur, Praveen, et al. "TinyAction Challenge: Recognizing Real-world Low-resolution Activities in Videos." arXiv preprint arXiv:2107.11494 (2021).       </li>
     <li> Demir, Ugur, et al. "TinyVIRAT: Low-resolution Video Action Recognition." 2020 25th International Conference on Pattern Recognition. IEEE Computer Society, 2021. </li>
   </ul>
