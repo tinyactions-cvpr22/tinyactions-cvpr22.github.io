@@ -57,7 +57,6 @@ Both the tasks will be evaluated using a public leaderboard where the participan
   <br>  
   
   - Evaluation server: <a href="https://codalab.lisn.upsaclay.fr/competitions/4780"> Link </a>
-  - Videos: <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/"> Link </a>
   - Sample submission: Coming Soon!
 
 
