@@ -56,7 +56,8 @@ Both the tasks will be evaluated using a public leaderboard where the participan
   We will provide an evaluation server where the performers can submit their results. A text file with multiple lines will be submitted by the performers for evaluation where each line will have detections for a test sample. For action detection, the predictions will include the class probablity and detected bounding boxes on each frame of a video.
   <br>  
   
-  - Evaluation server: Coming Soon!
+  - Evaluation server: <a href="https://codalab.lisn.upsaclay.fr/competitions/4780"> Link </a>
+  - Videos: <a href="https://www.crcv.ucf.edu/data1/UCF-MAMA/"> Link </a>
   - Sample submission: Coming Soon!
 
 
