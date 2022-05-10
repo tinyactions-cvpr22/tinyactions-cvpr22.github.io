@@ -57,7 +57,7 @@ Both the tasks will be evaluated using a public leaderboard where the participan
   <br>  
   
   - Evaluation server: <a href="https://codalab.lisn.upsaclay.fr/competitions/4780"> Link </a>
-  - Sample submission: Coming Soon!
+  - Sample submission: <a href="https://github.com/tinyactions-cvpr22/tinyactions-cvpr22.github.io/blob/main/files/sample_submission.zip"> Link <a>
 
 
 ## Important dates
