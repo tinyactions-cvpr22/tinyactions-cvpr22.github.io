@@ -64,7 +64,8 @@ Both the tasks will be evaluated using a public leaderboard where the participan
 - <strong> Feb 10, 2022 </strong>: Challenge is announced
 - <strong> Feb 20, 2022 </strong>: Evaluation server for Recognition task is opened
 - <strong> Apr 12, 2022 </strong>: Data for the "Detection" task is released
-- <strong> May 30, 2022 </strong>: Submission deadline
+- <strong> <strike> May 30, 2022 </strike> </strong>: <strike> Submission deadline </strike>
+- <strong> June 5, 2022 </strong>: Extended submission deadline
 - <strong> June 6, 2022 </strong>: Reports due
 - <strong> June 10, 2022 </strong>: Winner announcement 
 
