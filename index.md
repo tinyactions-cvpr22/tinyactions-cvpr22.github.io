@@ -70,6 +70,8 @@ Both the tasks will be evaluated using a public leaderboard where the participan
 - <strong> June 10, 2022 </strong>: Winner announcement 
 
 ## Winners
+  
+### Recognition
  
 - 1st Position : Boyu Chen (The University of Chinese Academy of Sciences)
 - 2nd Position : IPIU (Key Laboratory of Intelligent Perception and Image Understanding)
