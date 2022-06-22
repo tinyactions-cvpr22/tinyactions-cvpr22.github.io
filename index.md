@@ -73,9 +73,9 @@ Both the tasks will be evaluated using a public leaderboard where the participan
   
 ### Recognition
  
-- 1st Position : Boyu Chen (The University of Chinese Academy of Sciences)
-- 2nd Position : IPIU (Key Laboratory of Intelligent Perception and Image Understanding)
-- 3rd Position : Ivan AI (LENTECH (Guangzhou) Co., Ltd)
+- 1st Position : Boyu Chen (The University of Chinese Academy of Sciences) [<a href='https://www.crcv.ucf.edu/data1/tiny-actions/reports/Team1_Bychen_Report.pdf'> Report </a>, <a href='https://www.crcv.ucf.edu/data1/tiny-actions/reports/Team1_Bychen_Presentation.pptx'> Presentation </a>, <a href='https://www.crcv.ucf.edu/data1//data1/tiny-actions/reports/Team1_bychen_Video.mp4'> Video </a>]
+- 2nd Position : IPIU (Key Laboratory of Intelligent Perception and Image Understanding) [<a href='https://www.crcv.ucf.edu/data1/tiny-actions/reports/Team2_Songxinran_Report.pdf'> Report </a>, <a href='https://www.crcv.ucf.edu/data1/tiny-actions/reports/Team2_Songxinran_Video.mp4'> Video </a>]
+- 3rd Position : Ivan AI (LENTECH (Guangzhou) Co., Ltd) [<a href='https://www.crcv.ucf.edu/data1/tiny-actions/reports/Team3_IvanAI_Report.pdf'> Report </a> <a href='https://www.crcv.ucf.edu/data1/tiny-actions/reports/Team3_IvanAI_Presentation.pdf'> Presentation </a> <a href='https://www.crcv.ucf.edu/data1/tiny-actions/reports/Team3_IvanAI_Video.mp4'> Video </a>]
 
 ## Organizers
 <div style="display: flex">
